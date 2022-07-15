@@ -8,21 +8,21 @@ const Slider = () => {
   return (
     <div className="carousel-container">
       <div className="carousel-title">
-          <h2>Productos</h2>
+        <h2>Productos</h2>
       </div>
       
-      <Carousel 
+      <Carousel
         arrows
-        slidesPerPage={3}
+        slidesPerPage={1}
         infinite
-        animationSpeed={100}
+        animationSpeed={200}
         centered
         offset={50}
         itemWidth={400}
         slides={Slides}
       />
     </div>
-  )
+  );
 }
 
 export default Slider;

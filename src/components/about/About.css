@@ -24,10 +24,9 @@ font-size: 28px;
 }
 
 .about-img {
-    margin-top: 80px;
     height: 80vh;
     width: 55%;
     display: flex;
     align-self: center;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }

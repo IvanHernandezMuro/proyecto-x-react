@@ -3,21 +3,21 @@ import "./Slider.css";
 
 const slidesInfo = [
   {
-    src: "https://www.productosherba.es/images/stories/virtuemart/product/2-batidos-te-aloe-avena-herbalife-accesorios-phes.jpg", //TODO 500 500 
-    alt: "Pack",
-    desc:"Pack"
+    src: "https://assets.herbalifenutrition.com/content/dam/regional/mexico/es_mx/sites/herbalife_nutrition/web_graphic/billboards/2021/11-Nov/nuestros_productos_home_es_mx.png", //TODO 500 500 
+    alt: "uno",
+    desc:"uno"
   },
 
   {
-    src: "https://assets.herbalifenutrition.com/content/dam/regional/nam/es_us/sites/herbalife_nutrition/web_graphic/products/2021/11-Nov/2.0_CoreNutrition_600x600.jpg", //TODO 600 600 
-    alt: "Cocoa",
-    desc:"Cocoa"
+    src: "https://assets.herbalifenutrition.com/content/dam/regional/mexico/es_mx/sites/herbalife_nutrition/web_graphic/billboards/2021/11-Nov/por_que_HN_home_es_mx.png", //TODO 500 500 
+    alt: "dos",
+    desc:"dos"
   },
   
   {
-    src: "https://assets.herbalifenutrition.com/content/dam/regional/nam/es_us/sites/herbalife_nutrition/web_graphic/products/2021/11-Nov/2.0_SpecializedNutrition_600x600.jpg", //TODO 600 600
-    alt: "Aloe",
-    desc:"Aloe"
+    src: "https://assets.herbalifenutrition.com/content/dam/regional/mexico/es_mx/sites/herbalife_nutrition/web_graphic/billboards/2021/11-Nov/nuestros_productos_home_es_mx.png", //TODO 500 500
+    alt: "tres",
+    desc:"tres"
   },
 ]
 
