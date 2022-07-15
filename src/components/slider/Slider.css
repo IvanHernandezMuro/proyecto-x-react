@@ -1,0 +1,16 @@
+.carouusel-container {
+    margin-top: auto;
+    display: flex;
+    vertical-align: center;
+    align-items: center;
+    background-color: black;
+    padding: 30px 0 30px 0;
+}
+
+.carousel-titile {
+    color: blue;
+    width: 100%;
+    text-align:center;
+    font-size: 30px;
+    padding: 0 100px 0 100px;
+}
