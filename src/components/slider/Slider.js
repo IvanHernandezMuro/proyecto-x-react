@@ -7,10 +7,7 @@ import "./Slider.css";
 const Slider = () => {
   return (
     <div className="carousel-container">
-      <div className="carousel-title">
-        <h2>Productos</h2>
-      </div>
-      
+        
       <Carousel
         arrows
         slidesPerPage={1}
@@ -20,6 +17,13 @@ const Slider = () => {
         offset={50}
         itemWidth={400}
         slides={Slides}
+        brakepoint={{
+          960: {
+            slidesPerPage: 1,
+            arrows: false,
+            itemWidth:250,
+          },
+        }}
       />
     </div>
   );

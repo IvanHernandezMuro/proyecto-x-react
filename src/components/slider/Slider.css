@@ -67,3 +67,18 @@
 .BrainhubCarousel_arrows :hover > span {
     border-color: black !important; 
 }
+
+@media only screen and (max-width: 960px) {
+    .carousel-container {
+        flex-direction: column;
+        }
+    .carousel-title {
+        width: 100%;
+        text-align: center;
+        padding: 50px 0 50px 0;
+    }
+    .slide-container{
+        width: 100%;
+    }
+
+    }

@@ -4,20 +4,20 @@ import "./Slider.css";
 const slidesInfo = [
   {
     src: "https://assets.herbalifenutrition.com/content/dam/regional/mexico/es_mx/sites/herbalife_nutrition/web_graphic/billboards/2021/11-Nov/nuestros_productos_home_es_mx.png", //TODO 500 500 
-    alt: "uno",
-    desc:"uno"
+    alt: "Nutrición",
+    desc:"Nutrición"
   },
 
   {
     src: "https://assets.herbalifenutrition.com/content/dam/regional/mexico/es_mx/sites/herbalife_nutrition/web_graphic/billboards/2021/11-Nov/por_que_HN_home_es_mx.png", //TODO 500 500 
-    alt: "dos",
-    desc:"dos"
+    alt: "Disribuidor Independiente",
+    desc:"Disribuidor Independiente"
   },
   
   {
-    src: "https://assets.herbalifenutrition.com/content/dam/regional/mexico/es_mx/sites/herbalife_nutrition/web_graphic/billboards/2021/11-Nov/nuestros_productos_home_es_mx.png", //TODO 500 500
-    alt: "tres",
-    desc:"tres"
+    src: "https://images.pexels.com/photos/5038843/pexels-photo-5038843.jpeg?auto=compress&cs=tinysrgb&w=600", //TODO 500 500
+    alt: "Vida Saludable",
+    desc:"Vida Saludable"
   },
 ]
 
